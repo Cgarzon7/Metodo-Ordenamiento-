@@ -1,0 +1,17 @@
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\bin\Debug\net6.0-windows\Bubble.exe
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\bin\Debug\net6.0-windows\Bubble.deps.json
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\bin\Debug\net6.0-windows\Bubble.runtimeconfig.json
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\bin\Debug\net6.0-windows\Bubble.dll
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\bin\Debug\net6.0-windows\Bubble.pdb
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.csproj.AssemblyReference.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.Burbuja.resources
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.csproj.GenerateResource.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.AssemblyInfoInputs.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.AssemblyInfo.cs
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.dll
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\refint\Bubble.dll
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.pdb
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\Bubble.genruntimeconfig.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\Desktop\Ordenamiento Bubble\Bubble\Bubble\obj\Debug\net6.0-windows\ref\Bubble.dll
